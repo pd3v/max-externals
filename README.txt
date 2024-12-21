@@ -1,4 +1,4 @@
-A Max Externals collection wannabe
+A Max Externals collection wannabe (Mac/Intel Builds Only)
 
 drunkad - Is a 'drunk'-like object with 2 more outputs: amount added to previous step value and step direction. 
 
