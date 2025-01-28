@@ -6,3 +6,5 @@ drunkt - Is a 'drunk'-like object in which step max is redefined dynamically acc
 
 mrkv - Markov chains object. Settable number of states. Settable probability transition matrix for a custom graph.
 Randomly generated graphs. On bang outlets next state.
+
+gauss - Gauss distribution object. Inputs are, x value and 'in'/'on' messages, variance and mean. When 'in' message is set, output is a y=gauss(x) regular value, when 'on', output is a y > gauss(x) random value.
