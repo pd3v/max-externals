@@ -1,4 +1,5 @@
-A Max Externals collection wannabe (Mac/Intel Builds Only)
+A Max Externals collection wannabe * (Mac only, both M-Series and Mac/Intel) *
+------------------------------------------------------------------------------
 
 drunkad - Is a 'drunk'-like object with 2 more outputs: amount added to previous step value and step direction. 
 
